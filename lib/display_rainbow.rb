@@ -3,4 +3,4 @@ bob = ["Bob", 40, "cool"]
 
 name = bob[0]
 
-puts name 
+puts name
