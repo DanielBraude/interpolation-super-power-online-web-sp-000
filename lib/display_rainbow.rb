@@ -1,4 +1,4 @@
 # Write your #display_rainbow method here
 bob = ["Bob", 40, "cool"]
 
-puts "#{bob[0]}"
+puts "#{bob[3]}"
